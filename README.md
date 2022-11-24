@@ -4,6 +4,7 @@
 
 | #    | Problem                                                                                          | Solution       |
 | ---- | ------------------------------------------------------------------------------------------------ | -------------- |
+| 48 | [旋转图像](https://leetcode.cn/problems/rotate-image/description/) | [python3](./solutions/48.py) |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | [python3](./solutions/66.py) |
 | 189 | [轮转数组](https://leetcode.cn/problems/rotate-array/) | [python3](./solutions/189.py) |
 | 238 | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/) | [python3](./solutions/238.py) |
