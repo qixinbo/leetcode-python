@@ -1,11 +1,10 @@
 from typing import List 
 
 class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
-        res = [[1]]
-        for _ in range(numRows-1):
-            res.append([1] + [a + b for a, b in zip(res[-1], res[-1][1:])] + [1])
+    def generateMatrix(self, n: int) -> List[List[int]]:
+        matrix = [[0 for _ in range(n)] for _ in range(n)]
+        print(matrix)
 
 s = Solution()
-s.generate(6)
+s.generateMatrix(6)
 
