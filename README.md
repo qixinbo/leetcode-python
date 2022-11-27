@@ -6,6 +6,7 @@
 | ---- | ------------------------------------------------------------------------------------------------ | -------------- |
 | xx | []() | [python3](./solutions/xx.py) |
 | 48 | [旋转图像](https://leetcode.cn/problems/rotate-image/description/) | [python3](./solutions/48.py) |
+| 54 | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/description/) | [python3](./solutions/54.py) |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | [python3](./solutions/66.py) |
 | 73 | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/description/) | [python3](./solutions/73.py) |
 | 118 | [杨辉三角](https://leetcode.cn/problems/pascals-triangle/description/) | [python3](./solutions/118.py) |
